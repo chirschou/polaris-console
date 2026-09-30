@@ -1,0 +1,6 @@
+.git/
+node_modules/
+web/node_modules/
+*.zip
+*.md5sum
+polaris-console-release_*/
